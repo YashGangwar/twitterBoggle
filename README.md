@@ -32,5 +32,9 @@ Function 2 for returning all the possible words found in the board can be tested
 ## Screenshots
 
 ![](screenshots/ss1.png)
+
 ![](screenshots/ss2.png)
+
 ![](screenshots/ss3.png)
+
+![](screenshots/ss4.png)
